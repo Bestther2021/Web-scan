@@ -1,4 +1,5 @@
 # 🌐 Webscan CLI by B Dev
+v. 1.5
 
 **Webscan CLI** is a command-line tool to scan and analyze websites.  
 It supports **standard text output** or **rich output** (colored tables and panels) for supported terminals.  
