@@ -23,6 +23,8 @@ This tool can check website status, server info, CDN/firewall, TLS, security hea
 - 📊 Output in standard text, rich (colored), or JSON
 - ⚙️ Optional flags: `--json`, `--rich`
 
+- something can be wrong
+
 ---
 
 ## 🖥️ Requirements
